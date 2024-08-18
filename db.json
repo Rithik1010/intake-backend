@@ -1,0 +1,32 @@
+[
+    {
+        "request_type": "NDA request",
+        "purpose": "Somthing New",
+        "information_to_collect": [
+            {
+                "name": "sfsdf",
+                "field_type": "text",
+                "required": true,
+                "example": "sdfsdf"
+            }
+        ],
+        "request_type_owner": "abc@a.com",
+        "time_of_creation": "2024-08-18 07:41:23.791816+00:00",
+        "time_of_update": null
+    },
+    {
+        "request_type": "reterter",
+        "purpose": "tertert",
+        "information_to_collect": [
+            {
+                "name": "sdfd",
+                "field_type": "text",
+                "required": true,
+                "example": "sdfsdf"
+            }
+        ],
+        "request_type_owner": "tertert",
+        "time_of_creation": "2024-08-18 07:44:19.973335+00:00",
+        "time_of_update": "2024-08-18 07:44:49.861870+00:00"
+    }
+]
