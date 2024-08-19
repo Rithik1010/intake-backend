@@ -1,32 +1,47 @@
 [
     {
-        "request_type": "NDA request",
-        "purpose": "Somthing New",
+        "type_name": "a1",
+        "purpose": "x1",
         "information_to_collect": [
             {
-                "name": "sfsdf",
+                "name": "a",
                 "field_type": "text",
                 "required": true,
-                "example": "sdfsdf"
+                "example": ""
             }
         ],
-        "request_type_owner": "abc@a.com",
-        "time_of_creation": "2024-08-18 07:41:23.791816+00:00",
-        "time_of_update": null
+        "request_type_owner": "a@a.com",
+        "time_of_creation": "2024-08-19 05:43:18.202201+00:00",
+        "time_of_update": "2024-08-19 06:03:06.649438+00:00"
     },
     {
-        "request_type": "reterter",
-        "purpose": "tertert",
+        "type_name": "a4",
+        "purpose": "a4",
         "information_to_collect": [
             {
-                "name": "sdfd",
+                "name": "",
                 "field_type": "text",
                 "required": true,
-                "example": "sdfsdf"
+                "example": ""
             }
         ],
-        "request_type_owner": "tertert",
-        "time_of_creation": "2024-08-18 07:44:19.973335+00:00",
-        "time_of_update": "2024-08-18 07:44:49.861870+00:00"
+        "request_type_owner": "a@a.com",
+        "time_of_creation": "2024-08-19 06:03:56.299805+00:00",
+        "time_of_update": "2024-08-19 06:22:21.817067+00:00"
+    },
+    {
+        "type_name": "a6",
+        "purpose": "a6",
+        "information_to_collect": [
+            {
+                "name": "",
+                "field_type": "text",
+                "required": true,
+                "example": ""
+            }
+        ],
+        "request_type_owner": "a@a.com",
+        "time_of_creation": "2024-08-19 06:08:01.543047+00:00",
+        "time_of_update": "2024-08-19 06:13:19.391490+00:00"
     }
 ]
