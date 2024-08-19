@@ -1,47 +1,39 @@
 [
     {
-        "type_name": "a1",
-        "purpose": "x1",
+        "type_name": "NDA request - sales",
+        "purpose": "Request to establish a sales NDA. This should be completed when confidential information related to sales strategies, pricing, product details, or proprietary business practices needs to be shared. By filling out this form, you ensure that sensitive information is protected, fostering a secure and trustworthy business relationship.",
         "information_to_collect": [
             {
-                "name": "a",
+                "name": "emailId",
                 "field_type": "text",
                 "required": true,
-                "example": ""
+                "example": "abc@abc.com"
+            },
+            {
+                "name": "Date of Birth",
+                "field_type": "text",
+                "required": true,
+                "example": "01/06/1998"
             }
         ],
         "request_type_owner": "a@a.com",
-        "time_of_creation": "2024-08-19 05:43:18.202201+00:00",
-        "time_of_update": "2024-08-19 06:03:06.649438+00:00"
+        "time_of_creation": "2024-08-19 18:25:46.627444+00:00",
+        "time_of_update": null
     },
     {
-        "type_name": "a4",
-        "purpose": "a4",
-        "information_to_collect": [
-            {
-                "name": "",
-                "field_type": "text",
-                "required": true,
-                "example": ""
-            }
-        ],
+        "type_name": "MSA Review request - procurement",
+        "purpose": "Request to review MSA",
+        "information_to_collect": [],
         "request_type_owner": "a@a.com",
-        "time_of_creation": "2024-08-19 06:03:56.299805+00:00",
-        "time_of_update": "2024-08-19 06:22:21.817067+00:00"
+        "time_of_creation": "2024-08-19 18:27:45.160514+00:00",
+        "time_of_update": null
     },
     {
-        "type_name": "a6",
-        "purpose": "a6",
-        "information_to_collect": [
-            {
-                "name": "",
-                "field_type": "text",
-                "required": true,
-                "example": ""
-            }
-        ],
+        "type_name": "Employment contract review",
+        "purpose": "Request for reviewing employee contract",
+        "information_to_collect": [],
         "request_type_owner": "a@a.com",
-        "time_of_creation": "2024-08-19 06:08:01.543047+00:00",
-        "time_of_update": "2024-08-19 06:13:19.391490+00:00"
+        "time_of_creation": "2024-08-19 18:28:06.963988+00:00",
+        "time_of_update": null
     }
 ]
