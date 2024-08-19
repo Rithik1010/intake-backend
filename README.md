@@ -33,11 +33,20 @@ This project is a RESTful API built with FastAPI that manages request types, all
     pip install -r requirements.txt
     ```
 
-4.  uvicorn main:app --reload
+4.  Run the FastAPI Application
 
     ```bash
     uvicorn main:app --reload
     ```
+
+5. Access the Swagger Documentation
+
+After running the FastAPI application, you can access the Swagger UI at:
+
+-   **Swagger UI**: [http://localhost:8000/docs](http://localhost:8000/docs)
+-   **ReDoc UI**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
+
+These interfaces allow you to interact with your API, view the available endpoints, and see the expected request and response formats.
 
 The API will be accessible at [http://localhost:8000](http://localhost:8000).
 
