@@ -39,7 +39,9 @@ This project is a RESTful API built with FastAPI that manages request types, all
     uvicorn main:app --reload
     ```
 
-5. Access the Swagger Documentation
+The API will be accessible at [http://localhost:8000](http://localhost:8000).
+
+## Access the Swagger Documentation
 
 After running the FastAPI application, you can access the Swagger UI at:
 
@@ -47,8 +49,6 @@ After running the FastAPI application, you can access the Swagger UI at:
 -   **ReDoc UI**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 These interfaces allow you to interact with your API, view the available endpoints, and see the expected request and response formats.
-
-The API will be accessible at [http://localhost:8000](http://localhost:8000).
 
 ## Endpoints
 
