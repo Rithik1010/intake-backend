@@ -14,7 +14,6 @@ The goal of this backend project was to create a RESTful API to manage request t
 
 -   **Endpoints**: I followed RESTful principles to design the API endpoints, ensuring that they are intuitive and follow best practices.
 -   **Error Handling**: Basic error handling was implemented using FastAPI's `HTTPException`. For instance, trying to update or delete a non-existent request type returns a `404` error.
--   **Data Validation**: Pydantic models are used to validate incoming data to ensure that required fields are provided and are in the correct format.
 
 ## Tradeoffs and Considerations
 

@@ -1,6 +1,6 @@
 # Backend Project - Request Type Management API
 
-This project is a RESTful API built with FastAPI that manages request types, allowing users to create, update, and delete various types of requests. The project is designed to support a frontend application that interacts with the API to manage request types dynamically.
+This project is a RESTful API built with FastAPI that manages request types, allowing users to create, update, and delete various types of requests. The project is designed to support a [frontend application](https://github.com/Rithik1010/intake-builder) that interacts with the API to manage request types dynamically.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ This project is a RESTful API built with FastAPI that manages request types, all
 1.  Clone the repository:
 
     ```bash
-    https://github.com/Rithik1010/intake-backend.git
+    git clone https://github.com/Rithik1010/intake-backend.git
     cd intake-backend
 
     ```
@@ -24,7 +24,7 @@ This project is a RESTful API built with FastAPI that manages request types, all
 
     ```bash
     python3 -m venv env
-    source env/bin/activate # On Windows, use `env\Scripts\activate`
+    source env/bin/activate
     ```
 
 3.  Install the required dependencies:
